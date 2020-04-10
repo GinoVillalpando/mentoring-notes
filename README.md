@@ -36,3 +36,7 @@ Assisted Ryan with getting SSL setup for their domain and was able to compose ba
 ## Thursday April 9th, 2020
 
 Assisted Ryan with implementing a filter method that will filter out their characters based on what is typed in their input field using prev state
+
+## Friday April 10th, 2020
+
+Helped Ryan understand the use of redux hooks and how to implement it when developing a profile's favorite characters. Also informed him on how to create his own hook for JWT tokens to check if the user is signed in and to hide or show elements based on that JWT Token. 
