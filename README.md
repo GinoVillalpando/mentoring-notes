@@ -40,3 +40,10 @@ Assisted Ryan with implementing a filter method that will filter out their chara
 ## Friday April 10th, 2020
 
 Helped Ryan understand the use of redux hooks and how to implement it when developing a profile's favorite characters. Also informed him on how to create his own hook for JWT tokens to check if the user is signed in and to hide or show elements based on that JWT Token. 
+
+## Friday April 17th, 2020
+
+Explained the basics of Bootstrap and how to implement a navbar into their pwp and explained more about flex box and positioning.
+
+### referenced:
+ [navbar](https://getbootstrap.com/docs/4.4/components/navbar/) && [starter template](https://getbootstrap.com/docs/4.4/getting-started/introduction/) && [flexbox mechanics and positioning](https://getbootstrap.com/docs/4.4/utilities/flex/) && [grid](https://getbootstrap.com/docs/4.4/layout/grid/)
