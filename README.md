@@ -48,9 +48,12 @@ Explained the basics of Bootstrap and how to implement a navbar into their pwp a
 ### referenced:
  [navbar](https://getbootstrap.com/docs/4.4/components/navbar/) && [starter template](https://getbootstrap.com/docs/4.4/getting-started/introduction/) && [flexbox mechanics and positioning](https://getbootstrap.com/docs/4.4/utilities/flex/) && [grid](https://getbootstrap.com/docs/4.4/layout/grid/)
 
- ## Monday May 4th, 2020 
+## Monday May 4th, 2020 
 
- Assisted Gabriela with connecting her checkboxes for products to link up the product name and product size to the message body of her contact form. 
+    Assisted Gabriela with connecting her checkboxes for products to link up the product name and product size to the message body of her contact form. 
 
- Assisted India with padding and margin styling in their pwp by identifying which divs would need the padding or margin per box model. 
+    Assisted India with padding and margin styling in their pwp by identifying which divs would need the padding or margin per box model. 
 
+## Tuesday May 5th, 2020
+
+    Helped Gabriela with the else statement to reload page and reset values when checkboxes has been unchecked
