@@ -57,3 +57,11 @@ Explained the basics of Bootstrap and how to implement a navbar into their pwp a
 ## Tuesday May 5th, 2020
 
     Helped Gabriela with the else statement to reload page and reset values when checkboxes has been unchecked
+
+## Wednesday May 6th, 2020 
+
+    Assisted india with more styling with headers on pwp and explained to use the box model to understand how divs work
+
+## Thursday May 7th, 2020
+
+    helped india understand the errors from w3 validator and how to fix them by removing some parts of her code or changing something like the id parameters
