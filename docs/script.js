@@ -1,11 +1,13 @@
 
 // this code is being sent to the "computer translator" and being processed to see if it's valid JavaScript code 
 // in this case our function is being processed by the syntax parser or "computer translator" and then we see the result in the console
-// var helloGreeting = "Hello World"
+var helloGreeting = "Hello World"
 
-// function hello() {
-//     return helloGreeting;
-// }
+function hello() {
+    return helloGreeting;
+}
+
+hello()
 
 
 
@@ -19,15 +21,14 @@
 
 
 
-
 // show how creation and 'hoisting' works
-// hello();
-// console.log(helloGreeting);
 
-// var helloGreeting = "Hello World!"
+// var helloGreeting = 'Hello World!';
+
+// console.log(helloGreeting)
 
 // function hello() {
-//     console.log("yehhh boiiii")
+//     console.log('this is hello function')
 // }
 
 
@@ -44,14 +45,14 @@
 
 
 // guess how the output will be in this code
-function hello() {
-    console.log('called hello function');
-}
+// function hello() {
+//     console.log('called hello function');
+// }
 
-hello();
+// hello();
 
-console.log(helloGreeting);
+// console.log(helloGreeting);
 
-var helloGreeting = 'helloGreeting variable has been called'
+// var helloGreeting = 'helloGreeting variable has been called'
 
-console.log(helloGreeting);
+// console.log(helloGreeting);
