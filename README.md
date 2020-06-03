@@ -143,3 +143,7 @@ Explained the basics of Bootstrap and how to implement a navbar into their pwp a
             Synchronous: one at a time. so again just meaning one line of code being 
                          executed at a time. asynchronous essentially means it is executing many lines of code from other different 
                          sources within 1 line of code. Since JavaScript is single threaded we use asynchronous calls to exectue many things at once 
+
+## May 8th - 28th
+
+    Helped teams Date-Night, soldier-care-package and COVID teams with frontend features within React. assisted Date-Night with posting favorite and some display: flex styling with the favorite cards. Assisted soldier-care-package with displaying requested items on the home page and linking the profile data with those cards. Also assisted with displaying the items for the request and the links of those items. Assisted COVID with their search to search businesses with current standards regarding COVID. 
